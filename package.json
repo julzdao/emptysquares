@@ -1,0 +1,11 @@
+{
+  "name": "emptysquares",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.18"
+  },
+  "devDependencies": {
+    "typescript": "~7.0.2"
+  }
+}

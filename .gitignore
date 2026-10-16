@@ -1,0 +1,11 @@
+# Dependencies (npm install recreates them from package-lock.json)
+node_modules/
+
+# Build output
+dist/
+
+# npm's crash logs
+npm-debug.log*
+
+# macOS folder metadata
+.DS_Store
